@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>DEZENAS DA SORTE</title>
+<title>SORTE GRANDE</title>
   <meta property="og:image" content="https://dezenasdasorte.com/app/public/images/16432085529.png">
   <link rel="shortcut icon" type="image/png" href="/app/public/images/16432085529.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
